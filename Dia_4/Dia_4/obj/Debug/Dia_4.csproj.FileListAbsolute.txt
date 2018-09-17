@@ -1,0 +1,10 @@
+C:\Users\Usuário\source\repos\Dia_4\Dia_4\bin\Debug\Dia_4.exe.config
+C:\Users\Usuário\source\repos\Dia_4\Dia_4\bin\Debug\Dia_4.exe
+C:\Users\Usuário\source\repos\Dia_4\Dia_4\bin\Debug\Dia_4.pdb
+C:\Users\Usuário\source\repos\Dia_4\Dia_4\obj\Debug\Dia_4.csprojAssemblyReference.cache
+C:\Users\Usuário\source\repos\Dia_4\Dia_4\obj\Debug\Dia_4.Form1.resources
+C:\Users\Usuário\source\repos\Dia_4\Dia_4\obj\Debug\Dia_4.Properties.Resources.resources
+C:\Users\Usuário\source\repos\Dia_4\Dia_4\obj\Debug\Dia_4.csproj.GenerateResource.cache
+C:\Users\Usuário\source\repos\Dia_4\Dia_4\obj\Debug\Dia_4.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\Dia_4\Dia_4\obj\Debug\Dia_4.exe
+C:\Users\Usuário\source\repos\Dia_4\Dia_4\obj\Debug\Dia_4.pdb
