@@ -1,0 +1,10 @@
+C:\Users\Usuário\source\repos\WindowsFormAgendamento\WindowsFormAgendamento\bin\Debug\WindowsFormAgendamento.exe.config
+C:\Users\Usuário\source\repos\WindowsFormAgendamento\WindowsFormAgendamento\bin\Debug\WindowsFormAgendamento.exe
+C:\Users\Usuário\source\repos\WindowsFormAgendamento\WindowsFormAgendamento\bin\Debug\WindowsFormAgendamento.pdb
+C:\Users\Usuário\source\repos\WindowsFormAgendamento\WindowsFormAgendamento\obj\Debug\WindowsFormAgendamento.csprojAssemblyReference.cache
+C:\Users\Usuário\source\repos\WindowsFormAgendamento\WindowsFormAgendamento\obj\Debug\WindowsFormAgendamento.Form1.resources
+C:\Users\Usuário\source\repos\WindowsFormAgendamento\WindowsFormAgendamento\obj\Debug\WindowsFormAgendamento.Properties.Resources.resources
+C:\Users\Usuário\source\repos\WindowsFormAgendamento\WindowsFormAgendamento\obj\Debug\WindowsFormAgendamento.csproj.GenerateResource.cache
+C:\Users\Usuário\source\repos\WindowsFormAgendamento\WindowsFormAgendamento\obj\Debug\WindowsFormAgendamento.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\WindowsFormAgendamento\WindowsFormAgendamento\obj\Debug\WindowsFormAgendamento.exe
+C:\Users\Usuário\source\repos\WindowsFormAgendamento\WindowsFormAgendamento\obj\Debug\WindowsFormAgendamento.pdb
